@@ -1,0 +1,6 @@
+number_1 = float(input())
+number_2 = float(input())
+result_1 = (number_1+number_2)
+result_2 = (result_1/2)
+final_result = round(result_2)
+print("результат", final_result)
